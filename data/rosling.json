@@ -1155,11 +1155,11 @@
     "Continent": "Europe"
   },
   {
-    "Country": "Macao",
-    "GDP per capita": "China",
-    "Life expectancy": 148374,
-    "Population": 80.82,
-    "Continent": 600942
+    "Country": "Macao China",
+    "GDP per capita": 148374,
+    "Life expectancy": 80.82,
+    "Population": 600942,
+    "Continent": Asia
   },
   {
     "Country": "Slovenia",
@@ -1331,10 +1331,10 @@
   },
   {
     "Country": "Hong Kong",
-    "GDP per capita": "China",
-    "Life expectancy": 53874,
-    "Population": 83.73,
-    "Continent": 7291300
+    "GDP per capita": 53874,
+    "Life expectancy": 83.73,
+    "Population": 7291300,
+    "Continent": Asia
   },
   {
     "Country": "Andorra",
