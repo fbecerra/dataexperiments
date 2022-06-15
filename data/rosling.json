@@ -133,11 +133,11 @@
     "Continent": "Africa"
   },
   {
-    "Country": "Congo",
-    "GDP per capita": "Dem. Rep.",
-    "Life expectancy": 809,
-    "Population": 60.8,
-    "Continent": 76196619
+    "Country": "Congo, Dem. Rep.",
+    "GDP per capita": 809,
+    "Life expectancy": 60.8,
+    "Population": 76196619,
+    "Continent": "Africa"
   },
   {
     "Country": "Burkina Faso",
@@ -196,11 +196,11 @@
     "Continent": "Africa"
   },
   {
-    "Country": "Congo",
-    "GDP per capita": "Rep.",
-    "Life expectancy": 6220,
-    "Population": 61.5,
-    "Continent": 4995648
+    "Country": "Congo, Rep.",
+    "GDP per capita": 6220,
+    "Life expectancy": 61.5,
+    "Population": 4995648,
+    "Continent": "Africa"
   },
   {
     "Country": "Benin",
@@ -427,11 +427,11 @@
     "Continent": "Asia"
   },
   {
-    "Country": "Micronesia",
-    "GDP per capita": "Fed. Sts.",
-    "Life expectancy": 3510,
-    "Population": 68.9,
-    "Continent": 104433
+    "Country": "Micronesia, Fed. Sts.",
+    "GDP per capita": 3510,
+    "Life expectancy": 68.9,
+    "Population": 104433,
+    "Continent": "Australia"
   },
   {
     "Country": "Cambodia",
@@ -882,11 +882,11 @@
     "Continent": "North America"
   },
   {
-    "Country": "Macedonia",
-    "GDP per capita": "FYR",
-    "Life expectancy": 12547,
-    "Population": 76.5,
-    "Continent": 2079308
+    "Country": "Macedonia, FYR",
+    "GDP per capita": 12547,
+    "Life expectancy": 76.5,
+    "Population": 2079308,
+    "Continent": "Europe"
   },
   {
     "Country": "Argentina",
