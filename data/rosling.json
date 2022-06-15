@@ -1159,7 +1159,7 @@
     "GDP per capita": 148374,
     "Life expectancy": 80.82,
     "Population": 600942,
-    "Continent": Asia
+    "Continent": "Asia"
   },
   {
     "Country": "Slovenia",
@@ -1334,7 +1334,7 @@
     "GDP per capita": 53874,
     "Life expectancy": 83.73,
     "Population": 7291300,
-    "Continent": Asia
+    "Continent": "Asia"
   },
   {
     "Country": "Andorra",
