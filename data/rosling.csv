@@ -18,7 +18,7 @@ Cameroon,2897,59.4,22834522,Africa
 Angola,7615,59.6,27859305,Africa
 Mali,1684,60.2,17467905,Africa
 Malawi,799,60.5,17573607,Africa
-Congo, Dem. Rep.,809,60.8,76196619,Africa
+Congo Dem. Rep.,809,60.8,76196619,Africa
 Burkina Faso,1654,60.9,18110624,Africa
 Papua New Guinea,2529,60.9,7919825,Australia
 Niger,943,61,19896965,Africa
@@ -27,7 +27,7 @@ Uganda,1680,61.3,40144870,Africa
 South Africa,12509,61.3,55291225,Africa
 Burundi,777,61.4,10199270,Africa
 Togo,1433,61.5,7416802,Africa
-Congo, Rep.,6220,61.5,4995648,Africa
+Congo Rep.,6220,61.5,4995648,Africa
 Benin,1830,62.3,10575952,Africa
 Kiribati,1824,63,112407,Australia
 Liberia,958,63.2,4499621,Africa
@@ -60,7 +60,7 @@ Myanmar,4012,68,52403669,Asia
 Comoros,1472,68.1,777424,Africa
 Gambia,1644,68.1,1977590,Africa
 Syria,4637,68.2,18734987,Asia
-Micronesia, Fed. Sts.,3510,68.9,104433,Australia
+Micronesia Fed. Sts.,3510,68.9,104433,Australia
 Cambodia,3267,69.4,15517635,Asia
 Nepal,2352,69.7,28656282,Asia
 Mauritania,3877,69.7,4182341,Africa
@@ -125,7 +125,7 @@ Serbia,12908,76.2,7095383,Europe
 China,13334,76.2,1371220000,Asia
 Algeria,13434,76.4,39871528,Africa
 Antigua and Barbuda,21049,76.4,99923,North America
-Macedonia, FYR,12547,76.5,2079308,Europe
+Macedonia FYR,12547,76.5,2079308,Europe
 Argentina,17344,76.5,43417765,South America
 Hungary,24200,76.7,9843028,Europe
 Uruguay,20438,76.8,3431552,South America
