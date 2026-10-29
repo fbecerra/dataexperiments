@@ -1,0 +1,332 @@
+region;comuna;idh2024;tavpp;ingresos;educacion
+Arica y Parinacota;Arica;0,64;0,781;0,437;0,77
+Tarapacá;Iquique;0,684;0,778;0,561;0,733
+Tarapacá;Alto Hospicio;0,594;0,83;0,368;0,685
+Tarapacá;Pozo Almonte;0,62;0,794;0,458;0,655
+Tarapacá;Colchane;0,492;0,624;0,396;0,481
+Tarapacá;Huara;0,53;0,78;0,295;0,646
+GruTarapacápo2;Pica;0,62;0,811;0,424;0,693
+Antofagasta;Antofagasta;0,698;0,773;0,6;0,734
+Antofagasta;Mejillones;0,682;0,825;0,582;0,662
+Antofagasta;Sierra Gorda;0,659;0,878;0,515;0,633
+Antofagasta;Taltal;0,669;0,846;0,485;0,731
+Antofagasta;Calama;0,683;0,768;0,586;0,706
+Antofagasta;San Pedro de Atacama;0,64;0,749;0,511;0,684
+Antofagasta;Tocopilla;0,629;0,704;0,465;0,759
+Antofagasta;María Elena;0,692;0,832;0,567;0,704
+Atacama;Copiapó;0,69;0,789;0,539;0,771
+Atacama;Caldera;0,675;0,808;0,496;0,766
+Atacama;Tierra Amarilla;0,558;0,679;0,384;0,666
+Atacama;Chañaral;0,646;0,746;0,475;0,761
+Atacama;Diego de Almagro;0,73;0,869;0,551;0,813
+Atacama;Vallenar;0,668;0,788;0,493;0,769
+Atacama;Alto del Carmen;0,584;0,808;0,371;0,667
+Atacama;Freirina;0,64;0,847;0,419;0,74
+Atacama;Huasco;0,666;0,77;0,507;0,757
+Coquimbo;La Serena;0,704;0,796;0,538;0,816
+Coquimbo;Coquimbo;0,664;0,797;0,466;0,79
+Coquimbo;Andacollo;0,64;0,767;0,451;0,758
+Coquimbo;La Higuera;0,512;0,769;0,269;0,647
+Coquimbo;Paihuano;0,608;0,86;0,354;0,739
+Coquimbo;Vicuña;0,611;0,813;0,387;0,724
+Coquimbo;Illapel;0,658;0,824;0,457;0,757
+Coquimbo;Canela;0,555;0,763;0,362;0,619
+Coquimbo;Los Vilos;0,575;0,707;0,37;0,727
+Coquimbo;Salamanca;0,649;0,842;0,452;0,719
+Coquimbo;Ovalle;0,627;0,813;0,402;0,753
+Coquimbo;Combarbalá;0,604;0,801;0,398;0,691
+Coquimbo;Monte Patria;0,557;0,796;0,326;0,665
+Coquimbo;Punitaqui;0,614;0,889;0,376;0,695
+Coquimbo;Río Hurtado;0,612;0,831;0,412;0,668
+Valparaíso;Valparaíso;0,63;0,723;0,46;0,751
+Valparaíso;Casablanca;0,643;0,774;0,484;0,71
+Valparaíso;Concón;0,763;0,801;0,685;0,809
+Valparaíso;Juan Fernández;0,653;0,835;0,382;0,874
+Valparaíso;Puchuncaví;0,613;0,717;0,44;0,729
+Valparaíso;Quintero;0,623;0,783;0,416;0,742
+Valparaíso;Viña del Mar;0,699;0,769;0,573;0,775
+Valparaíso;Isla de Pascua;0,68;0,816;0,513;0,751
+Valparaíso;Los Andes;0,681;0,774;0,521;0,782
+Valparaíso;Calle Larga;0,659;0,803;0,463;0,769
+Valparaíso;Rinconada;0,693;0,844;0,501;0,788
+Valparaíso;San Esteban;0,675;0,819;0,497;0,757
+Valparaíso;La Ligua;0,596;0,779;0,375;0,724
+Valparaíso;Cabildo;0,617;0,801;0,412;0,713
+Valparaíso;Papudo;0,629;0,755;0,454;0,726
+Valparaíso;Petorca;0,557;0,715;0,334;0,724
+Valparaíso;Zapallar;0,724;0,776;0,639;0,767
+Valparaíso;Quillota;0,651;0,757;0,471;0,775
+Valparaíso;Calera;0,605;0,718;0,423;0,729
+Valparaíso;Hijuelas;0,591;0,763;0,389;0,695
+Valparaíso;La Cruz;0,724;0,843;0,549;0,818
+Valparaíso;Nogales;0,622;0,688;0,421;0,726
+Valparaíso;San Antonio;0,595;0,712;0,52;0,679
+Valparaíso;Algarrobo;0,631;0,703;0,308;0,699
+Valparaíso;Cartagena;0,533;0,784;0,401;0,607
+Valparaíso;El Quisco;0,576;0,688;0,404;0,688
+Valparaíso;El Tabo;0,576;0,898;0,632;0,819
+Valparaíso;Santo Domingo;0,774;0,754;0,444;0,751
+Valparaíso;San Felipe;0,631;0,812;0,371;0,727
+Valparaíso;Catemu;0,603;0,713;0,447;0,759
+Valparaíso;Llaillay;0,623;0,721;0,472;0,707
+Valparaíso;Panquehue;0,622;0,694;0,371;0,77
+Valparaíso;Putaendo;0,583;0,791;0,391;0,75
+Valparaíso;Santa María;0,614;0,793;0,512;0,807
+Valparaíso;Quilpué;0,689;0,773;0,446;0,745
+Valparaíso;Limache;0,636;0,79;0,437;0,716
+Valparaíso;Olmué;0,628;0,811;0,485;0,81
+Valparaíso;Villa Alemana;0,683;;;
+O'Higgins;Rancagua;0,674;0,776;0,518;0,762
+O'Higgins;Codegua;0,634;0,797;0,448;0,713
+O'Higgins;Coinco;0,634;0,885;0,399;0,722
+O'Higgins;Coltauco;0,584;0,723;0,399;0,691
+O'Higgins;Doñihue;0,631;0,782;0,429;0,75
+O'Higgins;Graneros;0,608;0,737;0,418;0,728
+O'Higgins;Las Cabras;0,559;0,746;0,359;0,651
+O'Higgins;Machalí;0,785;0,861;0,655;0,86
+O'Higgins;Malloa;0,559;0,725;0,36;0,671
+O'Higgins;Mostazal;0,605;0,753;0,409;0,719
+O'Higgins;Olivar;0,656;0,809;0,477;0,733
+O'Higgins;Peumo;0,607;0,775;0,402;0,716
+O'Higgins;Pichidegua;0,551;0,715;0,357;0,655
+O'Higgins;Quinta de Tilcoco;0,548;0,664;0,362;0,686
+O'Higgins;Rengo;0,598;0,754;0,394;0,718
+O'Higgins;Requínoa;0,651;0,821;0,475;0,708
+O'Higgins;San Vicente;0,622;0,797;0,411;0,735
+O'Higgins;Pichilemu;0,576;0,745;0,379;0,678
+O'Higgins;La Estrella*;0,609;0,84;0,378;0,713
+O'Higgins;Litueche;0,559;0,75;0,361;0,645
+O'Higgins;Marchihue;0,612;0,808;0,411;0,689
+O'Higgins;Navidad;0,543;0,72;0,365;0,609
+O'Higgins;Paredones;0,524;0,795;0,285;0,635
+O'Higgins;San Fernando;0,642;0,759;0,454;0,767
+O'Higgins;Chépica;0,567;0,817;0,314;0,71
+O'Higgins;Chimbarongo;0,574;0,779;0,342;0,709
+O'Higgins;Lolol;0,521;0,798;0,28;0,632
+O'Higgins;Nancagua;0,578;0,793;0,364;0,669
+O'Higgins;Palmilla;0,584;0,833;0,352;0,678
+O'Higgins;Peralillo;0,569;0,676;0,393;0,693
+O'Higgins;Placilla;0,559;0,691;0,368;0,687
+O'Higgins;Pumanque*;0,536;0,676;0,349;0,652
+O'Higgins;Santa Cruz;0,608;0,747;0,413;0,729
+Maule;Talca;0,664;0,765;0,484;0,791
+Maule;Constitución;0,6;0,782;0,379;0,73
+Maule;Curepto;0,556;0,796;0,318;0,678
+Maule;Empedrado*;0,48;0,787;0,21;0,671
+Maule;Maule;0,644;0,872;0,391;0,784
+Maule;Pelarco;0,568;0,68;0,379;0,71
+Maule;Pencahue;0,589;0,765;0,408;0,655
+Maule;Río Claro;0,543;0,726;0,325;0,68
+Maule;San Clemente;0,56;0,787;0,329;0,678
+Maule;San Rafael;0,593;0,762;0,396;0,691
+Maule;Cauquenes;0,557;0,65;0,362;0,736
+Maule;Chanco;0,525;0,779;0,27;0,687
+Maule;Pelluhue;0,591;0,808;0,365;0,7
+Maule;Curicó;0,639;0,777;0,437;0,766
+Maule;Hualañé;0,567;0,786;0,325;0,715
+Maule;Licantén;0,59;0,753;0,348;0,781
+Maule;Molina;0,589;0,815;0,353;0,712
+Maule;Rauco;0,555;0,786;0,304;0,716
+Maule;Romeral;0,631;0,889;0,397;0,712
+Maule;Sagrada Familia;0,578;0,741;0,373;0,698
+Maule;Teno;0,555;0,723;0,346;0,682
+Maule;Vichuquén*;0,594;0,765;0,366;0,746
+Maule;Linares;0,621;0,737;0,411;0,791
+Maule;Colbún;0,583;0,809;0,331;0,738
+Maule;Longaví;0,524;0,734;0,299;0,656
+Maule;Parral;0,592;0,782;0,359;0,74
+Maule;Retiro;0,533;0,756;0,29;0,693
+Maule;San Javier;0,574;0,775;0,334;0,732
+Maule;Villa Alegre;0,586;0,753;0,312;0,704
+Maule;Yerbas Buenas;0,549;;;0,48
+Ñuble;Chillán;0,654;0,749;0,467;0,8
+Ñuble;Bulnes;0,579;0,757;0,353;0,727
+Ñuble;Chillán Viejo;0,629;0,768;0,426;0,761
+Ñuble;El Carmen;0,488;0,67;0,259;0,67
+Ñuble;Pemuco;0,512;0,71;0,282;0,669
+Ñuble;Pinto;0,554;0,738;0,339;0,68
+Ñuble;Quillón;0,562;0,736;0,34;0,708
+Ñuble;San Ignacio;0,484;0,71;0,239;0,667
+Ñuble;Yungay;0,601;0,76;0,371;0,769
+Ñuble;Quirihue;0,569;0,695;0,348;0,759
+Ñuble;Cobquecura;0,559;0,79;0,319;0,695
+Ñuble;Coelemu;0,556;0,644;0,377;0,71
+Ñuble;Ninhue;0,501;0,714;0,262;0,671
+Ñuble;Portezuelo;0,509;0,634;0,297;0,699
+Ñuble;Ránquil;0,573;0,728;0,367;0,702
+Ñuble;Trehuaco;0,507;0,671;0,269;0,721
+Ñuble;San Carlos;0,584;0,748;0,366;0,728
+Ñuble;Coihueco;0,54;0,78;0,299;0,676
+Ñuble;Ñiquén;0,564;0,737;0,361;0,674
+Ñuble;San Fabián;0,554;0,816;0,337;0,62
+Ñuble;San Nicolás;0,566;0,74;0,347;0,704
+Biobío;Concepción;0,727;0,784;0,594;0,826
+Biobío;Coronel;0,625;0,768;0,397;0,801
+Biobío;Chiguayante;0,715;0,789;0,55;0,843
+Biobío;Florida;0,582;0,736;0,374;0,716
+Biobío;Hualqui;0,579;0,762;0,345;0,74
+Biobío;Lota;0,586;0,682;0,386;0,766
+Biobío;Penco;0,645;0,79;0,429;0,79
+Biobío;San Pedro de La Paz;0,727;0,811;0,555;0,855
+Biobío;Santa Juana;0,581;0,724;0,376;0,721
+Biobío;Talcahuano;0,679;0,762;0,508;0,811
+Biobío;Tomé;0,635;0,794;0,408;0,789
+Biobío;Hualpén;0,676;0,78;0,485;0,816
+Biobío;Lebu;0,548;0,693;0,326;0,729
+Biobío;Arauco;0,619;0,757;0,401;0,78
+Biobío;Cañete;0,537;0,728;0,294;0,724
+Biobío;Contulmo;0,53;0,675;0,318;0,692
+Biobío;Curanilahue;0,583;0,675;0,388;0,756
+Biobío;Los Álamos;0,57;0,802;0,306;0,755
+Biobío;Tirúa;0,422;0,625;0,184;0,654
+Biobío;Los Ángeles;0,649;0,795;0,448;0,768
+Biobío;Antuco*;0,6;0,81;0,362;0,736
+Biobío;Cabrero;0,581;0,753;0,37;0,702
+Biobío;Laja;0,624;0,745;0,432;0,756
+Biobío;Mulchén;0,576;0,799;0,351;0,681
+Biobío;Nacimiento;0,628;0,791;0,412;0,761
+Biobío;Negrete;0,619;0,819;0,414;0,7
+Biobío;Quilaco*;0,595;0,819;0,352;0,732
+Biobío;Quilleco;0,536;0,695;0,316;0,699
+Biobío;San Rosendo*;0,609;0,773;0,393;0,742
+Biobío;Santa Bárbara;0,583;0,814;0,345;0,704
+Biobío;Tucapel;0,596;0,804;0,352;0,748
+Biobío;Yumbel;0,557;0,707;0,348;0,701
+Biobío;Alto Biobío;0,45;0,725;0,205;0,614
+Araucanía;Temuco;0,692;0,79;0,504;0,832
+Araucanía;Carahue;0,489;0,77;0,225;0,677
+Araucanía;Cunco;0,521;0,745;0,262;0,724
+Araucanía;Curarrehue;0,41;0,716;0,163;0,592
+Araucanía;Freire;0,545;0,789;0,301;0,68
+Araucanía;Galvarino;0,48;0,765;0,222;0,652
+Araucanía;Gorbea;0,525;0,675;0,294;0,728
+Araucanía;Lautaro;0,58;0,761;0,343;0,749
+Araucanía;Loncoche;0,55;0,738;0,314;0,718
+Araucanía;Melipeuco;0,548;0,838;0,289;0,681
+Araucanía;Nueva Imperial;0,527;0,718;0,28;0,727
+Araucanía;Padre Las Casas;0,556;0,774;0,302;0,736
+Araucanía;Perquenco;0,538;0,78;0,274;0,727
+Araucanía;Pitrufquén;0,582;0,768;0,344;0,747
+Araucanía;Pucón;0,608;0,81;0,403;0,689
+Araucanía;Saavedra;0,406;0,671;0,155;0,642
+Araucanía;Teodoro Schmidt;0,447;0,685;0,196;0,666
+Araucanía;Toltén;0,501;0,784;0,238;0,673
+Araucanía;Vilcún;0,568;0,797;0,316;0,725
+Araucanía;Villarrica;0,609;0,778;0,171;0,682
+Araucanía;Cholchol;0,449;0,725;0,415;0,785
+Araucanía;Angol;0,618;0,657;0,326;0,661
+Araucanía;Collipulli;0,521;0,781;0,334;0,729
+Araucanía;Curacautín;0,575;0,524;0,158;0,641
+Araucanía;Ercilla;0,376;0,706;0,216;0,611
+Araucanía;Lonquimay;0,453;0,768;0,255;0,695
+Araucanía;Los Sauces;0,515;0,609;0,214;0,645
+Araucanía;Lumaco;0,438;0,787;0,271;0,734
+Araucanía;Purén;0,539;0,718;0,369;0,689
+Araucanía;Renaico;0,567;0,662;0,331;0,727
+Araucanía;Traiguén;0,542;0,732;0,381;0,757
+Araucanía;Victoria;0,595;;;0,584
+Los Ríos;Valdivia;0,68;0,744;0,51;0,829
+Los Ríos;Corral;0,542;0,755;0,301;0,701
+Los Ríos;Lanco;0,589;0,877;0,32;0,727
+Los Ríos;Los Lagos;0,567;0,8;0,332;0,689
+Los Ríos;Máfil;0,548;0,653;0,347;0,728
+Los Ríos;Mariquina;0,559;0,756;0,316;0,73
+Los Ríos;Paillaco;0,539;0,644;0,331;0,734
+Los Ríos;Panguipulli;0,525;0,715;0,299;0,676
+Los Ríos;La Unión;0,619;0,759;0,403;0,773
+Los Ríos;Futrono;0,53;0,723;0,294;0,701
+Los Ríos;Lago Ranco;0,498;0,678;0,272;0,668
+Los Ríos;Río Bueno;0,607;0,704;0,423;0,752
+Los Lagos;Puerto Montt;0,669;0,805;0,483;0,768
+Los Lagos;Calbuco;0,556;0,766;0,352;0,639
+Los Lagos;Cochamó*;0,522;0,694;0,32;0,641
+Los Lagos;Fresia;0,523;0,694;0,307;0,671
+Los Lagos;Frutillar;0,616;0,753;0,44;0,705
+Los Lagos;Los Muermos;0,548;0,802;0,315;0,654
+Los Lagos;Llanquihue;0,617;0,723;0,447;0,729
+Los Lagos;Maullín;0,53;0,773;0,311;0,618
+Los Lagos;Puerto Varas;0,745;0,838;0,627;0,787
+Los Lagos;Castro;0,644;0,754;0,478;0,743
+Los Lagos;Ancud;0,61;0,72;0,436;0,723
+Los Lagos;Chonchi;0,59;0,753;0,409;0,665
+Los Lagos;Curaco de Vélez*;0,615;0,853;0,399;0,684
+Los Lagos;Dalcahue;0,559;0,757;0,355;0,65
+Los Lagos;Puqueldón*;0,549;0,689;0,371;0,647
+Los Lagos;Queilén;0,533;0,698;0,338;0,641
+Los Lagos;Quellón;0,561;0,728;0,389;0,623
+Los Lagos;Quemchi;0,549;0,845;0,33;0,592
+Los Lagos;Quinchao;0,547;0,684;0,363;0,659
+Los Lagos;Osorno;0,651;0,748;0,465;0,793
+Los Lagos;Puerto Octay;0,572;0,76;0,391;0,63
+Los Lagos;Purranque;0,579;0,794;0,336;0,73
+Los Lagos;Puyehue;0,575;0,758;0,379;0,66
+Los Lagos;Río Negro;0,583;0,744;0,382;0,697
+Los Lagos;San Juan de la Costa;0,386;0,565;0,162;0,627
+Los Lagos;San Pablo;0,594;0,783;0,378;0,709
+Los Lagos;Chaitén*;0,591;0,736;0,408;0,687
+Los Lagos;Futaleufú*;0,63;0,853;0,426;0,688
+Los Lagos;Hualaihué;0,607;0,77;0,429;0,679
+Los Lagos;Palena*;0,642;0,729;0,471;0,769
+Aysén;Coyhaique;0,706;0,83;0,53;0,8
+Aysén;Lago Verde*;0,609;0,746;0,46;0,658
+Aysén;Aysén;0,669;0,785;0,482;0,791
+Aysén;Cisnes;0,671;0,815;0,482;0,769
+Aysén;Guaitecas*;0,56;0,703;0,351;0,71
+Aysén;Cochrane*;0,673;0,824;0,478;0,775
+Aysén;Chile Chico*;0,61;0,755;0,403;0,745
+Aysén;Río Ibáñez*;0,619;0,736;0,443;0,726
+Magallanes;Punta Arenas;0,708;0,761;0,59;0,791
+Magallanes;Porvenir;0,717;0,803;0,58;0,791
+Magallanes;Natales;0,652;0,758;0,509;0,72
+Metropolitana;Santiago;0,685;0,856;0,626;0,6
+Metropolitana;Cerrillos;0,637;0,772;0,47;0,711
+Metropolitana;Cerro Navia;0,533;0,704;0,333;0,644
+Metropolitana;Conchalí;0,591;0,729;0,414;0,684
+Metropolitana;El Bosque;0,583;0,762;0,372;0,699
+Metropolitana;Estación Central;0,598;0,802;0,448;0,595
+Metropolitana;Huechuraba;0,757;0,823;0,641;0,824
+Metropolitana;Independencia;0,579;0,733;0,464;0,571
+Metropolitana;La Cisterna;0,668;0,809;0,516;0,713
+Metropolitana;La Florida;0,711;0,808;0,572;0,779
+Metropolitana;La Granja;0,581;0,744;0,382;0,691
+Metropolitana;La Pintana;0,52;0,742;0,277;0,685
+Metropolitana;La Reina;0,868;0,863;0,817;0,927
+Metropolitana;Las Condes;0,917;0,875;0,942;0,936
+Metropolitana;Lo Barnechea;0,912;0,905;0,88;0,952
+Metropolitana;Lo Espejo;0,509;0,645;0,319;0,642
+Metropolitana;Lo Prado;0,584;0,746;0,394;0,679
+Metropolitana;Macul;0,731;0,82;0,607;0,786
+Metropolitana;Maipú;0,702;0,815;0,536;0,791
+Metropolitana;Ñuñoa;0,85;0,847;0,837;0,865
+Metropolitana;Pedro Aguirre Cerda;0,577;0,693;0,395;0,701
+Metropolitana;Peñalolén;0,705;0,804;0,563;0,775
+Metropolitana;Providencia;0,883;0,828;0,939;0,884
+Metropolitana;Pudahuel;0,652;0,809;0,461;0,742
+Metropolitana;Quilicura;0,654;0,808;0,489;0,707
+Metropolitana;Quinta Normal;0,622;0,801;0,455;0,661
+Metropolitana;Recoleta;0,588;0,736;0,424;0,65
+Metropolitana;Renca;0,588;0,752;0,383;0,706
+Metropolitana;San Joaquín;0,618;0,763;0,438;0,707
+Metropolitana;San Miguel;0,738;0,803;0,675;0,741
+Metropolitana;San Ramón;0,542;0,71;0,339;0,66
+Metropolitana;Vitacura;0,945;0,88;1;0,959
+Metropolitana;Puente Alto;0,663;0,784;0,474;0,784
+Metropolitana;Pirque;0,69;0,787;0,556;0,75
+Metropolitana;San José de Maipo;0,681;0,78;0,533;0,759
+Metropolitana;Colina;0,743;0,828;0,641;0,775
+Metropolitana;Lampa;0,671;0,85;0,488;0,728
+Metropolitana;Tiltil;0,682;0,782;0,564;0,719
+Metropolitana;San Bernardo;0,616;0,763;0,421;0,726
+Metropolitana;Buin;0,669;0,795;0,505;0,747
+Metropolitana;Calera de Tango;0,706;0,788;0,58;0,771
+Metropolitana;Paine;0,615;0,807;0,407;0,706
+Metropolitana;Melipilla;0,582;0,757;0,38;0,686
+Metropolitana;Alhué;0,621;0,82;0,434;0,672
+Metropolitana;Curacaví;0,626;0,764;0,443;0,726
+Metropolitana;María Pinto;0,606;0,781;0,405;0,702
+Metropolitana;San Pedro;0,553;0,815;0,339;0,612
+Metropolitana;Talagante;0,662;0,793;0,483;0,758
+Metropolitana;El Monte;0,599;0,773;0,381;0,73
+Metropolitana;Isla de Maipo;0,638;0,83;0,443;0,707
+Metropolitana;Padre Hurtado;0,677;0,829;0,504;0,743
+Metropolitana;Peñaflor;0,664;0,776;0,482;0,783
